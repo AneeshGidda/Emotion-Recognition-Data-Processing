@@ -23,9 +23,9 @@ The "Emotion Recognition Data Processing" project focuses on the initial stages 
 
 ## 4. Data Visualization
 **Audio Waveform**<br />
-Purpose: Visualize the raw audio waveform.
+Purpose: Visualize the raw audio waveform<br />
 Benefit: Gain insights into audio duration, amplitude patterns, and variations
 
 **Mel Spectrogram**<br />
-Purpose: Visualize Mel spectrograms.
+Purpose: Visualize Mel spectrograms<br />
 Benefit: Explore frequency content, intensity variations, and emotional characteristics
