@@ -22,10 +22,10 @@ The "Emotion Recognition Data Processing" project focuses on the initial stages 
 **Label Encoding:** Emotion labels in the original datasets are categorical. To make them compatible with machine learning algorithms, they are one-hot encoded. This means each emotion label is transformed into a binary vector where only one element is '1', representing the class of the emotion
 
 ## 4. Data Visualization
-**Audio Waveform**__
+**Audio Waveform**<br />
 Purpose: Visualize the raw audio waveform.
 Benefit: Gain insights into audio duration, amplitude patterns, and variations
 
-**Mel Spectrogram**__
+**Mel Spectrogram**<br />
 Purpose: Visualize Mel spectrograms.
 Benefit: Explore frequency content, intensity variations, and emotional characteristics
