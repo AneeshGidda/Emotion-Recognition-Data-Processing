@@ -2,6 +2,8 @@
 
 The "Emotion Recognition Data Processing" project focuses on the initial stages of preparing and processing audio data for emotion recognition tasks. This project specifically deals with data collection, feature extraction, and preprocessing, setting the foundation for subsequent machine learning tasks. It aims to create a clean and organized dataset ready for model development. The key data processing steps are as follows:
 
+![Project Image](https://getwallpapers.com/wallpaper/full/1/4/a/381656.jpg)
+
 ## 1. Feature Extraction
 **Mel Spectrogram Extraction:** The heart of this project's data processing lies in the extraction of Mel spectrogram features from the raw audio recordings. Mel spectrograms are a time-frequency representation of audio signals. They capture essential information about the frequency components present in the audio over time
 
